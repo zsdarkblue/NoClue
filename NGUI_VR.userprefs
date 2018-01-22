@@ -1,0 +1,79 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameState\LogicState\BootState.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameState\LogicState\BootState.cs" Line="30" Column="74" />
+      <File FileName="Assets\Scripts\Multilanguage\MultilanguageMgr.cs" Line="365" Column="6" />
+      <File FileName="Assets\Scripts\UI\ResultUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResMgr\LocalDataBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Util\DontDestroyOnLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameState\LogicState\LobbyState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\NGUI_VR\HandRayEventSender.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContainer\DeviceContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\GuideUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Input\InputMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Drumstick\Drumstick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContainer\CityContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRHapticsClip.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRHaptics.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\RotateMusicSelectUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ProfileUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PickItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PickItemBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PickBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PickUIBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\ScenePickItemContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score\ScoreMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\LightControl\DayNightSwitcher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameState\LogicState\BeatState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\string_Simplified_CN.json" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\AchievementUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\LeaderBoardUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SteamAPIMgr\SteamAPIMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\3dInteractiveMenu\UI\GUIFrameID.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullets\MusicBulletPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\App.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Internal\NGUITools.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Util\GameUtil.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\LightControl\LightsController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SteamAPIMgr\AchievementBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PickHintBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\OculusPlatform\Scripts\Models\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResMgr\ResourceMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\FrameBaseUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Finding\PopUpFaceCameraItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameState\LogicState\RoomSwitchMiddleState.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NGUI_VR" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameState" expanded="True">
+                  <Node name="LogicState" expanded="True">
+                    <Node name="BootState.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Multilanguage" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="NGUI_VR" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

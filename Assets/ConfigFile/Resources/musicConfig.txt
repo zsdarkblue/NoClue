@@ -1,0 +1,31 @@
+﻿id,preid,nextid,isopen,city,scene,musicResName,musicShowName,difficulty,golescore,maxScore,author,coverIndex
+0,,1,1,tokyo,tokyo,gravity,Gravity,1,,3659347,LukHash,3
+1,0,2,1,tokyo,tokyo,pixlove,PixeLove,1,,5230114,LukHash,6
+2,3,5,1,london,lodon,15years,15 Years,1,1,3639365,PeerGynt Lobogris,4
+3,,4,1,rio,rio,greenlight,Green Light,1,2,4931831,The.madpix.project,2
+4,1,,1,tokyo,tokyo,fashionshopping,Fashion Shopping,0,,3665249,Peter McIsaac Music,16
+5,4,,1,rio,rio,liquidblue,Liquid Blue,2,1,4788861,The.madpix.project,5
+6,,7,1,london,lodon,anadventurecalledlife,An Adventure Called Life,2,2,4293601,Score Squad,11
+7,6,8,1,tokyo,tokyo,jumper,Jumper,2,,4074808,Reaktor Productions,13
+8,7,,1,rio,rio,breakout,Break Out,2,2,4841223,GG Riggs,12
+9,,4,1,london,lodon,backstagepass,Backstage Pass,2,1,4411596,Reaktor Productions,14
+10,,1,1,tokyo,tokyo,bornfree,Born Free,3,2,6178342,Pokki DJ,0
+11,0,2,1,london,lodon,highonlife,High On Life,3,,6030494,Tristan Norton & Martin Kottmeier,19
+12,3,5,1,tokyo,tokyo,fragment,Fragment,3,2,5634523,The.madpix.project,7
+13,,4,1,london,lodon,rockstar,Rockstar,3,1,5315492,Reaktor Productions,15
+14,1,,1,tokyo,tokyo,overdrive,Overdrive,3,2,4338897,Reaktor Productions,10
+15,4,,1,rio,rio,eighties,Eighties,3,,4375040,LukHash,8
+16,,7,1,london,lodon,intothelight,Into The Light,4,2,4539811,alumo,1
+17,6,8,1,tokyo,tokyo,digitalized,Digitalized,4,,5099844,Reaktor Productions,9
+18,7,,1,rio,rio,tangopassion,Tango Passion,4,,4235725,Olive Musique,17
+19,,4,1,london,lodon,indierockers,Indie Rockers,4,,6048410,Tristan Norton & Martin Kottmeier,18
+20,,1,1,london,lodon,15YearsReforge,15 Years [Fever],3,2,5085327,PeerGynt Lobogris,20
+21,,1,1,tokyo,tokyo,GravityReforge,Gravity [Fever],3,2,6385617,LukHash,21
+22,,1,1,tokyo,tokyo,PixeloveReforge,PixeLove [Fever],4,2,6085324,LukHash,22
+23,,1,1,tokyo,tokyo,FashionShoppingReforge,Fashion Shopping [Fever],4,2,6240726,Peter McIsaac Music,23
+24,,1,1,rio,rio,GreenLightReforge,Green Light [Fever],4,2,7379407,The.madpix.project,24
+25,,1,1,london,lodon,ItAintEnough,It Ain't Enough,2,2,3990535,Gyom,25
+26,,1,1,rio,rio,FollowYourHeart,Follow Your Heart,3,2,4157885,Olive Musique,26
+27,,1,1,tokyo,tokyo,ElectronicMovement,Electronic Movement,3,2,5167082,Score Squad,27
+28,,1,1,rio,rio,SurfAndTheBeach,Surf And The Beach,4,2,7484926,Musicalman,28
+29,,1,1,tokyo,tokyo,BeepBop,Beep Bop,4,2,8883952,Joe Sacco,29

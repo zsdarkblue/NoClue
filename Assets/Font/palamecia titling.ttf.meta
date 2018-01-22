@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aa9afa38ead2cf446b7463675f3f81db
+timeCreated: 1489474015
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Palamecia Titling
+  fontNames:
+  - Palamecia Titling
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
